@@ -3,10 +3,6 @@ from scipy.linalg import norm
 from matplotlib import colormaps as cm
 from matplotlib import pyplot as plt
 
-
-#TASK23
-
-
 # Constants
 
 x0 = 0
@@ -206,5 +202,6 @@ plt.show()
 # into the region equals the net heat flux out of the region. 
 # This is consistent with the steady-state solution of the heat equation, 
 # where the temperature distribution no longer changes over time.
+
 
 
